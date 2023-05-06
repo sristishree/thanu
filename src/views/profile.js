@@ -54,7 +54,7 @@ const Profile = (props) => {
       <div className="profile-profile">
         <img
           alt="image"
-          src="/playground_assets/profile.jpg"
+          src="/thanu/playground_assets/profile.jpg"
           className="profile-image"
         />
         <div className="profile-container01">

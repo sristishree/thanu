@@ -38,82 +38,82 @@ const ComingSoon = (props) => {
           <div className="coming-soon-grid">
             <img
               alt="image"
-              src="/playground_assets/iphone-3-1000w.png"
+              src="/thanu/playground_assets/iphone-3-1000w.png"
               className="coming-soon-image"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-2-1000w.png"
+              src="/thanu/playground_assets/iphone-2-1000w.png"
               className="coming-soon-image01"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-4-1000w.png"
+              src="/thanu/playground_assets/iphone-4-1000w.png"
               className="coming-soon-image02"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-1-1000w.png"
+              src="/thanu/playground_assets/iphone-1-1000w.png"
               className="coming-soon-image03"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-2-1000w.png"
+              src="/thanu/playground_assets/iphone-2-1000w.png"
               className="coming-soon-image04"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-4-1000w.png"
+              src="/thanu/playground_assets/iphone-4-1000w.png"
               className="coming-soon-image05"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-1-1000w.png"
+              src="/thanu/playground_assets/iphone-1-1000w.png"
               className="coming-soon-image06"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-3-1000w.png"
+              src="/thanu/playground_assets/iphone-3-1000w.png"
               className="coming-soon-image07"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-2-1000w.png"
+              src="/thanu/playground_assets/iphone-2-1000w.png"
               className="coming-soon-image08"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-4-1000w.png"
+              src="/thanu/playground_assets/iphone-4-1000w.png"
               className="coming-soon-image09"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-1-1000w.png"
+              src="/thanu/playground_assets/iphone-1-1000w.png"
               className="coming-soon-image10"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-3-1000w.png"
+              src="/thanu/playground_assets/iphone-3-1000w.png"
               className="coming-soon-image11"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-4-1000w.png"
+              src="/thanu/playground_assets/iphone-4-1000w.png"
               className="coming-soon-image12"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-1-1000w.png"
+              src="/thanu/playground_assets/iphone-1-1000w.png"
               className="coming-soon-image13"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-3-1000w.png"
+              src="/thanu/playground_assets/iphone-3-1000w.png"
               className="coming-soon-image14"
             />
             <img
               alt="image"
-              src="/playground_assets/iphone-2-1000w.png"
+              src="/thanu/playground_assets/iphone-2-1000w.png"
               className="coming-soon-image15"
             />
           </div>

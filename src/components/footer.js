@@ -34,7 +34,7 @@ const Footer = (props) => {
       </div >
       <img
         alt="image"
-        src="/playground_assets/waves-white.svg"
+        src="/thanu/playground_assets/waves-white.svg"
         className="footer-image"
       />
     </footer >

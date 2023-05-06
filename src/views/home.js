@@ -72,22 +72,22 @@ const Home = (props) => {
           <FeatureCard
             text="Wanna make a reel? She will not just alwayss be ready to partner you, but will also patiently teach you the steps."
             title="Chirpy"
-            image_src="/playground_assets/bird.jpg"
+            image_src="/thanu/playground_assets/bird.jpg"
           ></FeatureCard>
           <FeatureCard
             text="She is the BIGGEST fan of black ever. Don't believe us? Go to her in a black tshirt and see for yourself!"
             title="Black Love"
-            image_src="/playground_assets/black.png"
+            image_src="/thanu/playground_assets/black.png"
           ></FeatureCard>
           <FeatureCard
             text="With her (almost daily) dosage of scoldings, she makes you feel more at home than home itself."
             title="Motherly"
-            image_src="/playground_assets/mother.png"
+            image_src="/thanu/playground_assets/mother.png"
           ></FeatureCard>
           <FeatureCard
             text="Her sense of humour knows no bound. Ask her to crack a joke in Hindi and witness the magic!"
             title="So 'funny'"
-            image_src="/playground_assets/funny.jpg"
+            image_src="/thanu/playground_assets/funny.jpg"
           ></FeatureCard>
         </div>
       </section>
@@ -106,13 +106,13 @@ const Home = (props) => {
             style={{ width: '475px', height: '268px' }}
             sandbox="true"
           >
-            <source src="/playground_assets/thanusha_design.mp4"></source>
+            <source src="/thanu/playground_assets/thanusha_design.mp4"></source>
           </video>
           <video controls="true"
             className="home-video"
             style={{ width: '475px', height: '268px' }}
           >
-            <source src="/playground_assets/thanu_design.mp4"></source>
+            <source src="/thanu/playground_assets/thanu_design.mp4"></source>
           </video>
         </div>
       </div>
@@ -145,7 +145,7 @@ const Home = (props) => {
             <div className="home-container30" style={{ width: 250 + 'px' }}>
               <img
                 alt="image"
-                src="/playground_assets/cake.png"
+                src="/thanu/playground_assets/cake.png"
                 style={{ width: '100%' }}
               />
             </div>
@@ -153,17 +153,17 @@ const Home = (props) => {
         </div>
         <img
           alt="image"
-          src="/playground_assets/bottom.svg"
+          src="/thanu/playground_assets/bottom.svg"
           className="home-bottom-wave-image"
         />
         <img
           alt="image"
-          src="/playground_assets/waves-white.svg"
+          src="/thanu/playground_assets/waves-white.svg"
           className="home-image12"
         />
         <img
           alt="image"
-          src="/playground_assets/top.svg"
+          src="/thanu/playground_assets/top.svg"
           className="home-top-wave-image"
         />
       </section>
