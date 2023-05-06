@@ -9,7 +9,7 @@ import Home from './views/home'
 
 const App = () => {
   return (
-    <Router>
+    <Router basename={window.location.pathname || ''}>
       <div>
         <Route component={ComingSoon} exact path="/coming-soon" />
         <Route component={Profile} exact path="/profile" />
