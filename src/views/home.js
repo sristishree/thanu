@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 
 import { Helmet } from 'react-helmet'
-
+// Image
 import Header from '../components/header'
 import PrimaryPinkButton from '../components/primary-pink-button'
 import OutlineGrayButton from '../components/outline-gray-button'
@@ -61,7 +61,7 @@ const Home = (props) => {
       </div>
       <img
         alt="image"
-        src="./../public/playground_assets/1682510267263-1500h.jpg"
+        src="/thanu/public/playground_assets/h.jpg"
         className="home-image"
       />
       <section className="home-features">
