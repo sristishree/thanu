@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/thanu/static/css/main.7322ba4a.css",
-    "main.js": "/thanu/static/js/main.5a7ebb4a.js",
-    "index.html": "/thanu/index.html",
-    "main.7322ba4a.css.map": "/thanu/static/css/main.7322ba4a.css.map",
-    "main.5a7ebb4a.js.map": "/thanu/static/js/main.5a7ebb4a.js.map"
+    "main.css": "/static/css/main.7322ba4a.css",
+    "main.js": "/static/js/main.90312626.js",
+    "index.html": "/index.html",
+    "main.7322ba4a.css.map": "/static/css/main.7322ba4a.css.map",
+    "main.90312626.js.map": "/static/js/main.90312626.js.map"
   },
   "entrypoints": [
     "static/css/main.7322ba4a.css",
-    "static/js/main.5a7ebb4a.js"
+    "static/js/main.90312626.js"
   ]
 }
