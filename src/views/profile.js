@@ -15,8 +15,21 @@ const Profile = (props) => {
   const [isShown, setIsShown] = useState(false);
 
   const handleClick = event => {
-    setIsShown(true);
+    setIsShown(current => !current);
   };
+  useEffect(() => {
+    let timeoutId;
+
+    if (isShown) {
+      timeoutId = setTimeout(() => {
+        setIsShown(false);
+      }, 3000);
+    }
+
+    return () => {
+      clearTimeout(timeoutId);
+    };
+  }, [isShown]);
 
   const [height, setHeight] = useState(null);
   const [width, setWidth] = useState(null);
