@@ -61,7 +61,7 @@ const Home = (props) => {
       </div>
       <img
         alt="image"
-        src="/playground_assets/h.jpg"
+        src="/thanu/playground_assets/h.jpg"
         className="home-image"
       />
       <section className="home-features">
