@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/thanusha/static/css/main.7322ba4a.css",
-    "main.js": "/thanusha/static/js/main.552557cb.js",
-    "index.html": "/thanusha/index.html",
-    "main.7322ba4a.css.map": "/thanusha/static/css/main.7322ba4a.css.map",
-    "main.552557cb.js.map": "/thanusha/static/js/main.552557cb.js.map"
+    "main.css": "/th.github.io/static/css/main.7322ba4a.css",
+    "main.js": "/th.github.io/static/js/main.552557cb.js",
+    "index.html": "/th.github.io/index.html",
+    "main.7322ba4a.css.map": "/th.github.io/static/css/main.7322ba4a.css.map",
+    "main.552557cb.js.map": "/th.github.io/static/js/main.552557cb.js.map"
   },
   "entrypoints": [
     "static/css/main.7322ba4a.css",
