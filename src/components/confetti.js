@@ -4,9 +4,9 @@ import ConfettiExplosion from 'confetti-explosion-react'
 export default (props) => {
     return (
         <ConfettiExplosion
-            particleCount={100}
-            height={1000}
-            width={1600}
+            particleCount={200}
+            height={3000}
+            width={800}
             force={1}
             duration={4000}
         />

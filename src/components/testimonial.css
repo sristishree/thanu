@@ -19,8 +19,7 @@
 }
 
 .container .card {
-    width: 400px;
-    height: 300px;
+    height: auto;
     background-color: #ffffff;
     /* color: #fff; */
     box-sizing: border-box;
@@ -31,7 +30,7 @@
     box-shadow: 2px 2px 9px #00000050;
 }
 
-.container .card h2 {
+.container .container .card h2 {
     margin: 0;
 }
 
@@ -42,7 +41,7 @@
 }
 
 .container .card p {
-    margin-top: 15px;
+    margin-top: 2px;
     font-size: 15px;
     line-height: 1.6;
     color: black;
