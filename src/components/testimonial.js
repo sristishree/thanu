@@ -53,7 +53,7 @@ class Testimonials extends React.Component {
                                 to finally making the trip happen,
                                 you have always been an integral part of the revered organization 'Josritha' 🤣</p>
                             <p>Thankyou for all the times you have been my amma during my trips and otherwise.🙄</p>
-                            <p>Thankyou for being an amazing friend.Happy 25th💃</p>
+                            <p>Thankyou for being an amazing friend. Happpppy 25th💃</p>
                             <p>May we continue to be the incredible friends that we are, even when you turn 'Ponchalis' 😆</p></div>} />
                     <Card title="Lalitha" bgc={this.state.green} widthSetting="750px"
                         content={<div><p>Osey Banda!</p>
@@ -70,14 +70,14 @@ class Testimonials extends React.Component {
                                 Lalli Banda. 🐱</p></div>} />
                     <Card title="Isha" bgc={this.state.purple} widthSetting="500px"
                         content={<div><p>A toast to that one college friend who became one of my closest friends
-                            after coming out of college ....❣️</p>
-                            <p>From doing reels on 'kashmir tu mai kanyakumari' to making me try all the delicaies
+                            after coming out of college ....🥂❣️</p><br />
+                            <p>From doing reels on "kashmir tu mai kanyakumari" to making me try all the delicaies
                                 possible in a single go, we’ve done it all.</p>
                             <p>There hasn't been a day when we've meet and not had a blast.....
                                 It has been and amazing with my favorite trio 'Josritha' 😍.  </p><br />
                             <p>Wish you many many happy returns of the day. Badhaiiyaan ji badhaiyaan...
-                                for completing  a quater of your life, may your next quaters be filled with
-                                more happiness than ever.</p></div>} />
+                                for completing  a quarter of your life, may your next quarters be filled with
+                                more happiness than ever.🎉</p></div>} />
                     <Card title="Lakshmi" bgc={this.state.green} widthSetting="600px"
                         content={<div><p>Through deadlines, meetings, and daily grind, 🤭</p><p>
                             You've been a friend who's hard to find, 🤩</p><br /><p>
@@ -88,17 +88,19 @@ class Testimonials extends React.Component {
                                 Together we snack, and walk for miles, 😋</p><p>
                                 And brighten up each other's smiles, 😁</p><br /><p>
 
-
                                 May this special day bring all the things that you enjoy and wish for.
                                 May you feel loved and blessed all the time! ❤️</p></div>} />
                     <Card title="Sristi" bgc={this.state.pink} widthSetting="700px"
-                        content={<div><p>On this special day, I want to wish you all the happiness,
-                            love, and blessings in the world. May your heart be filled with joy,
-                            and may you always be surrounded by the people you love. 🥳</p>
+                        content={<div><p>On this special day, I want to wish you all the
+                            love and blessings in the world. May you always be surrounded by the people you love andddd alll
+                            pretty pink and peach dresses. 🥳</p>
                             <p>Thank you for being an incredible friend, and here's to many
-                                more years of laughter, love, and adventure. And hope I never give you any more chances for the complaint - 'Chitti why am I the last one to know
+                                more years of laughter, love, and adventure.
+                                And hope I never give you any more chances for the complaint - 'Chitti why am I the last one to know
                                 all your gossips' 😉</p>
                             <p>Cheers to the Rameshwaram trip that is FINALLLY happening!</p>
+                            <p>PS: I'll soon be better and plan our car trip and many more okk.🥰.
+                                I won't let all the insta posts you have saved for us to try go waste. 🤝</p>
                             <p>"As you turn twenty-five today</p><p>
                                 May all happiness in life you treasure</p><p>
                                 May you get lesser load at office, I pray 🙏</p><p>
